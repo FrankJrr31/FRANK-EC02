@@ -1,0 +1,5 @@
+com\example\holacodespace\YoController.class
+com\example\holacodespace\CursosController.class
+com\example\holacodespace\Cursos.class
+com\example\holacodespace\CursosRepository.class
+com\example\holacodespace\HolaCodespaceApplication.class
