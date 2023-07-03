@@ -1,4 +1,4 @@
-@subdominio = arturo-dominio-render
+@subdominio = frank-sjj9
 
 ###
 GET http://{{subdominio}}.onrender.com/

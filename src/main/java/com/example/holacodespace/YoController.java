@@ -10,14 +10,14 @@ import org.springframework.web.bind.annotation.RequestMapping;
 public class YoController {
     @GetMapping(path="/")
     public String completo(){
-        return "AT77465395-Arturo Gabriel Carrasco";
+        return "AT70867816-FRANK";
     }
     @GetMapping(path="/idat/codigo")
     public String codigo(){
-        return "AT77465395";
+        return "AT70867816";
     }
     @GetMapping(path = "/idat/nombre-completo")
     public String nombre(){
-        return "Arturo Gabriel Carrasco";
+        return "ALANYA PEREZ FRANK JERRY";
     }
 }
