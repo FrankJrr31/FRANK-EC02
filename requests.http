@@ -21,7 +21,7 @@ GET http://{{subdominio}}.onrender.com/api/curso/listar/HTTP/1.1
 POST http://{{subdominio}}.onrender.com/api/curso/nuevo/HTTP/1.1
 Content-Type: application/x-www-form-urlencoded
 
-nombre=dasarrollo
+nombre=marketing
 &creditos=2
 
 ###
